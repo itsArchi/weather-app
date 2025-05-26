@@ -2,6 +2,7 @@
 
 
 <h2>Open link below! to use the apps</h2>
+https://app-cities-weather.vercel.app/
 </br>
 </br>
 </br>
